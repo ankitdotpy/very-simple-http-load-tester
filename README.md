@@ -1,0 +1,1 @@
+It is a very simple http load tester tool to simulate load on a website or HTTP(S) based API. For now it can only make one request, but i plan to build a tool that can make high volumne of concurrent HTTP(S) request against any website/api.
